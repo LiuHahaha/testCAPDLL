@@ -1,0 +1,5 @@
+F:\workspace\testDLL3\testDLL3\bin\Debug\testDLL3.exe
+F:\workspace\testDLL3\testDLL3\bin\Debug\testDLL3.pdb
+F:\workspace\testDLL3\testDLL3\obj\x86\Debug\testDLL3.exe
+F:\workspace\testDLL3\testDLL3\obj\x86\Debug\testDLL3.pdb
+F:\workspace\testDLL3\testDLL3\obj\x86\Debug\testDLL3.csprojResolveAssemblyReference.cache

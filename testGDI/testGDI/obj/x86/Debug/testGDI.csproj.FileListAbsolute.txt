@@ -1,0 +1,10 @@
+F:\workspace\testGDI\testGDI\bin\Debug\testGDI.exe
+F:\workspace\testGDI\testGDI\bin\Debug\testGDI.pdb
+F:\workspace\testGDI\testGDI\bin\Debug\ZGraph.dll
+F:\workspace\testGDI\testGDI\bin\Debug\ZGraph.pdb
+F:\workspace\testGDI\testGDI\obj\x86\Debug\testGDI.Form1.resources
+F:\workspace\testGDI\testGDI\obj\x86\Debug\testGDI.Properties.Resources.resources
+F:\workspace\testGDI\testGDI\obj\x86\Debug\testGDI.csproj.GenerateResource.Cache
+F:\workspace\testGDI\testGDI\obj\x86\Debug\testGDI.exe
+F:\workspace\testGDI\testGDI\obj\x86\Debug\testGDI.pdb
+F:\workspace\testGDI\testGDI\obj\x86\Debug\testGDI.csprojResolveAssemblyReference.cache
